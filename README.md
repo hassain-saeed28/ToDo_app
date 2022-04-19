@@ -1,1 +1,3 @@
-# ToDo_app
+# A simple To-Do app
+
+Designed and developed overnight :)
